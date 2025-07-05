@@ -23,6 +23,7 @@ Web dashboard to view logs and filter by person or access status
 Modular, beginner-friendly, and open-source
 
 🧰 Built With
+
 Python
 
 OpenCV
